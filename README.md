@@ -10,7 +10,9 @@ deep-learning.ipynb
 # Utilities:
 
 sklearn (model_selection --> train_test_split, preprocessing --> StandardScaler)
+
 tensorflow
+
 pandas
 
 # Error:
